@@ -35,6 +35,13 @@
           "latest": "2.0.0",
           "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray"
         }
+      },
+
+      "neoforge": {
+        "1.21.1": {
+          "latest": "2.0.0",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray"
+        }
       }
     }
   }
