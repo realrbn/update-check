@@ -16,6 +16,18 @@
 
     "1713176": {
       "fabric": {
+        "1.20.1": {
+          "latest": "1.1.0",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray"
+        },
+        "1.21.1": {
+          "latest": "1.1.0",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray"
+        },
+        "1.21.11": {
+          "latest": "1.1.0",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray"
+        },
         "26.2": {
           "latest": "1.1.0",
           "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray"
