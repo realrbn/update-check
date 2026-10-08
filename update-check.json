@@ -1,3 +1,4 @@
+
 {
   "schema": 1,
   "mods": {
@@ -57,6 +58,15 @@
         "26.3": {
           "latest": "1.1.0",
           "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray"
+        }
+      }
+    },
+
+    "1733603": {
+      "fabric": {
+        "26.3": {
+          "latest": "1.0.0",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/oxidise-copper"
         }
       }
     }
