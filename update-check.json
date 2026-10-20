@@ -34,6 +34,14 @@
         "1.21.1": {
           "latest": "1.2.0",
           "url": "https://www.curseforge.com/minecraft/mc-mods/villager-trade-preview"
+        },
+        "26.2": {
+          "latest": "1.2.0",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/villager-trade-preview"
+        },
+        "26.3": {
+          "latest": "1.2.0",
+          "url": "https://www.curseforge.com/minecraft/mc-mods/villager-trade-preview"
         }
       },
 
