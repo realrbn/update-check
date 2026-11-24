@@ -69,55 +69,66 @@
       "fabric": {
         "1.20.1": {
           "latest": "1.7.0",
-          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray"
+          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray",
+          "changelog": ""
         },
         "1.21.1": {
           "latest": "1.7.0",
-          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray"
+          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray",
+          "changelog": ""
         },
         "1.21.11": {
           "latest": "1.7.0",
-          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray"
+          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray",
+          "changelog": ""
         },
         "26.2": {
           "latest": "1.7.0",
-          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray"
+          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray",
+          "changelog": ""
         },
         "26.3": {
           "latest": "1.7.0",
-          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray"
+          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray",
+          "changelog": ""
         }
       },
 
       "forge": {
         "1.20.1": {
           "latest": "1.7.0",
-          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray"
+          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray",
+          "changelog": ""
         },
         "1.21.1": {
           "latest": "1.7.0",
-          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray"
+          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray",
+          "changelog": ""
         }
       },
 
       "neoforge": {
         "1.21.1": {
           "latest": "1.7.0",
-          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray"
+          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray",
+          "changelog": ""
         },
         "1.21.11": {
           "latest": "1.7.0",
-          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray"
+          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray",
+          "changelog": ""
         },
         "26.2": {
           "latest": "1.7.0",
-          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray"
+          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray",
+          "changelog": ""
         },
         "26.3": {
           "latest": "1.7.0",
-          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray"
+          "url": "https://www.curseforge.com/minecraft/mc-mods/better-xray",
+          "changelog": ""
         }
       }
-    },
-
-    
+    }
+  }
+}
